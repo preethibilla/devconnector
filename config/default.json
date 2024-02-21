@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://preethi98billa:Welcome2021@devconnector.v6u7rtv.mongodb.net/?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://preethi98billa:Welcome2021@devconnector.v6u7rtv.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
 }
