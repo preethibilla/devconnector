@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://preethi98billa:Welcome2021@devconnector.v6u7rtv.mongodb.net/?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken"
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "9ffc6cd06ee2602c1b1b",
+    "githubSecret": "8f10b10af4885725f01fd4ab325a3140056f00fa"
 }
