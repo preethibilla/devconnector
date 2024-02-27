@@ -12,6 +12,7 @@
   "author": "Preethi Billa",
   "license": "MIT",
   "dependencies": {
+    "@reduxjs/toolkit": "^2.2.1",
     "axios": "^1.6.7",
     "bcryptjs": "^2.4.3",
     "config": "^3.3.11",
